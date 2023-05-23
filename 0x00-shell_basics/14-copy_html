@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
+<<<<<<< HEAD
+cp -un *.html ../
+=======
+cp -un *.html ../ 
+>>>>>>> 45197d886640ad041f79b2be9bc1cc40d5a70de7
+=======
 cp -un  *.html ../ 
+>>>>>>> 02143f222f17fe06d1f6fdfe93aa854e22e4f8e4
